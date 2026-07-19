@@ -1,0 +1,5 @@
+[
+  { "name": "LinkedIn", "url": "https://www.linkedin.com/in/husnain-javed", "icon": "TbBrandLinkedin" },
+  { "name": "Email", "url": "mailto:husnain.uon@gmail.com", "icon": "TbMail" },
+  { "name": "Phone", "url": "tel:+923226869904", "icon": "TbPhone" }
+]

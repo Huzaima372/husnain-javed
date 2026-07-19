@@ -1,0 +1,53 @@
+[
+  {
+    "category": "Programming Languages",
+    "items": [
+      { "name": "Python", "level": 90, "icon": "TbBrandPython" },
+      { "name": "C++", "level": 65, "icon": "TbCode" }
+    ]
+  },
+  {
+    "category": "Web Development",
+    "items": [
+      { "name": "PHP", "level": 70, "icon": "TbBrandPhp" },
+      { "name": "Laravel", "level": 68, "icon": "TbBrandLaravel" }
+    ]
+  },
+  {
+    "category": "Machine Learning",
+    "items": [
+      { "name": "Scikit-learn", "level": 80, "icon": "TbBrain" },
+      { "name": "Supervised & Unsupervised Learning", "level": 78, "icon": "TbTopologyStar3" },
+      { "name": "Keras", "level": 74, "icon": "TbBrandOpenSource" }
+    ]
+  },
+  {
+    "category": "Deep Learning & NLP",
+    "items": [
+      { "name": "CNNs (beginner)", "level": 55, "icon": "TbLayersIntersect" },
+      { "name": "Natural Language Processing", "level": 58, "icon": "TbMessageLanguage" }
+    ]
+  },
+  {
+    "category": "Computer Vision",
+    "items": [
+      { "name": "OpenCV", "level": 76, "icon": "TbCamera" },
+      { "name": "Face & Object Detection (basic)", "level": 62, "icon": "TbFocus2" }
+    ]
+  },
+  {
+    "category": "Data Analysis & Visualization",
+    "items": [
+      { "name": "Pandas", "level": 82, "icon": "TbTable" },
+      { "name": "NumPy", "level": 80, "icon": "TbMathFunction" },
+      { "name": "Matplotlib", "level": 75, "icon": "TbChartLine" }
+    ]
+  },
+  {
+    "category": "Tools & Platforms",
+    "items": [
+      { "name": "Jupyter Notebook", "level": 85, "icon": "TbNotebook" },
+      { "name": "Google Colab", "level": 85, "icon": "TbCloudComputing" }
+    ]
+  }
+]

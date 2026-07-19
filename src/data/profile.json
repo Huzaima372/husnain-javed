@@ -1,0 +1,47 @@
+{
+  "firstName": "Husnain",
+  "fullName": "Husnain Javed",
+  "tagline": "Building models that catch what the eye might miss — one image at a time.",
+  "roles": [
+    "ML Engineer",
+    "Computer Science Student",
+    "Computer Vision Developer",
+    "Deep Learning Explorer",
+    "Full-Stack Developer"
+  ],
+  "location": "Narowal, Pakistan",
+  "email": "husnain.uon@gmail.com",
+  "phone": "0322-6869904",
+  "summary": "Motivated Computer Science student seeking opportunities to apply hands-on experience in software development, Machine Learning, and Computer Vision. Proficient in Python, OpenCV, Pandas, NumPy, Matplotlib, and Scikit-learn, with foundational knowledge of Deep Learning and NLP. Passionate about solving real-world problems and contributing to practical projects.",
+  "focusNote": "I care about building models that are actually useful — not just accurate on paper, but genuinely helpful for early detection and better decisions in health, agriculture, and safety.",
+  "resumeFile": "/resume/Husnain_Javed_Resume.pdf",
+  "photo": "/images/husnain.jpg",
+  "photoSmall": "/images/husnain-small.jpg",
+  "stats": [
+    { "label": "ML/DL/CV Projects", "value": "7" },
+    { "label": "Months Industry Internship", "value": "3" },
+    { "label": "Domains Applied To", "value": "4" },
+    { "label": "Core Languages & Frameworks", "value": "8" }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor in Computer Science",
+      "institution": "University of Narowal",
+      "detail": "Focus on machine learning, computer vision, and applied software development."
+    },
+    {
+      "degree": "Intermediate in Computer Science",
+      "institution": "University of Narowal",
+      "detail": "Foundational coursework in computer science and mathematics."
+    }
+  ],
+  "focusAreas": [
+    { "title": "Computer Vision", "detail": "Image processing and real-time detection tasks built on OpenCV and deep learning." },
+    { "title": "Healthcare & Agricultural ML", "detail": "Disease prediction from health records and dental/leaf imagery." },
+    { "title": "Full-Stack + AI", "detail": "PHP Laravel and MySQL systems wired up to deep learning models." }
+  ],
+  "languages": [
+    { "name": "English", "level": "Professional" },
+    { "name": "Urdu", "level": "Native" }
+  ]
+}

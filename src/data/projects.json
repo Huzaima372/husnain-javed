@@ -1,0 +1,109 @@
+[
+  {
+    "slug": "dental-oral-detection-system",
+    "title": "Dental & Oral Detection System",
+    "category": "Full-Stack · Healthcare AI",
+    "description": "Final Year Project — an AI-powered health-tech system that detects multi-class oral diseases from images.",
+    "bullets": [
+      "Built with PHP Laravel, MySQL, and deep learning (Keras/TensorFlow) to detect multi-class oral diseases from images.",
+      "Trains advanced image classification models for accurate diagnosis.",
+      "Full system workflow mapped via precise ERDs and architectural flowcharts."
+    ],
+    "tags": ["PHP", "Laravel", "MySQL", "Keras", "TensorFlow"],
+    "year": "2026",
+    "featured": true,
+    "image": "https://images.pexels.com/photos/4297519/pexels-photo-4297519.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "variant": "dental-oral",
+    "note": "Final Year Project"
+  },
+  {
+    "slug": "realtime-face-mask-detection",
+    "title": "Realtime Face Mask Detection",
+    "category": "Computer Vision · Public Safety",
+    "description": "A real-time system that identifies whether a person is wearing a mask through a live video feed.",
+    "bullets": [
+      "Built using computer vision and deep learning to detect mask-wearing in real time.",
+      "Designed to support public safety monitoring through a live video feed."
+    ],
+    "tags": ["OpenCV", "Deep Learning", "Real-Time CV"],
+    "year": "2025",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80",
+    "variant": "face-mask"
+  },
+  {
+    "slug": "tree-disease-prediction",
+    "title": "Tree Disease Prediction System",
+    "category": "Computer Vision · Agriculture",
+    "description": "A deep learning model that identifies tree diseases from leaf images to support crop and forest management.",
+    "bullets": [
+      "Built a Keras-based deep learning model to identify and predict tree diseases from leaf images.",
+      "Supports early detection and better crop and forest management decisions."
+    ],
+    "tags": ["Keras", "Image Classification", "Agriculture AI"],
+    "year": "2025",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1602332659518-1e068472e7ab?auto=format&fit=crop&w=1200&q=80",
+    "variant": "leaf-disease"
+  },
+  {
+    "slug": "kidney-stones-prediction",
+    "title": "Kidney Stones Prediction System",
+    "category": "Machine Learning · Healthcare",
+    "description": "A machine learning model that predicts kidney disease from patient medical data.",
+    "bullets": [
+      "Developed using Keras to predict kidney disease based on patient medical data.",
+      "Helps in early detection by analyzing key health parameters and improving diagnostic accuracy."
+    ],
+    "tags": ["Keras", "Scikit-learn", "Pandas"],
+    "year": "2025",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1200&q=80",
+    "variant": "kidney-data"
+  },
+  {
+    "slug": "heart-disease-prediction",
+    "title": "Heart Disease Prediction System",
+    "category": "Machine Learning · Healthcare",
+    "description": "A machine learning model that predicts heart disease risk from clinical and patient health data.",
+    "bullets": [
+      "Developed using Keras to predict the risk of heart disease from clinical and patient health data.",
+      "Supports early diagnosis and better medical decision-making."
+    ],
+    "tags": ["Keras", "Scikit-learn", "Health Data"],
+    "year": "2024",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1690785884403-2bff26562857?auto=format&fit=crop&w=1200&q=80",
+    "variant": "heart-data"
+  },
+  {
+    "slug": "diabetes-breast-cancer-prediction",
+    "title": "Diabetes & Breast Cancer Prediction System",
+    "category": "Machine Learning · Healthcare",
+    "description": "Machine learning models that predict diabetes and breast cancer risk from patient medical data.",
+    "bullets": [
+      "Developed using Keras to predict diabetes and breast cancer based on patient medical data.",
+      "Supports early detection and assists healthcare professionals in decision-making."
+    ],
+    "tags": ["Keras", "Scikit-learn", "NumPy"],
+    "year": "2024",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1463367620918-d4824d05ce0e?auto=format&fit=crop&w=1200&q=80",
+    "variant": "diabetes-cancer"
+  },
+  {
+    "slug": "spam-email-classification-nlp",
+    "title": "Spam Email Classification (NLP)",
+    "category": "NLP · Text Classification",
+    "description": "A model that detects spam vs. legitimate emails using natural language processing.",
+    "bullets": [
+      "Built a model to classify emails as spam or not spam using Python, Google Colab, and NLP.",
+      "Used Naive Bayes for classification after text cleaning and preprocessing."
+    ],
+    "tags": ["Python", "NLP", "Naive Bayes", "Google Colab"],
+    "year": "2024",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1559163330-c30bac8c5031?auto=format&fit=crop&w=1200&q=80",
+    "variant": "spam-nlp"
+  }
+]
